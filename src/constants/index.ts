@@ -1,0 +1,109 @@
+export const leftBarCategoryItems=[
+    {
+        id:1,
+        name:"Desktops",
+        subItems:[]
+    },
+    {
+        id:2,
+        name:"Laptops & NoteBooks",
+        subItems:[]
+    },
+    {
+        id:3,
+        name:"Components",
+        subItems:[]
+    },
+    {
+        id:4,
+        name:"Tablets",
+        subItems:["Ipad","Samsung","Oppoo","Huwawei","Sony"]
+    },
+    {
+        id:5,
+        name:"Software",
+        subItems:[]
+    },
+    ,
+    {
+        id:6,
+        name:"Phones & PDAs",
+        subItems:[]
+    },
+    ,
+    {
+        id:7,
+        name:"Cameras",
+        subItems:[]
+    },
+    ,
+    {
+        id:8,
+        name:"Mp3 Player",
+        subItems:[]
+    },
+    ,
+    {
+        id:9,
+        name:"Smart Phone",
+        subItems:[]
+    },
+    ,
+    {
+        id:10,
+        name:"Computer",
+        subItems:[]
+    },
+]
+
+export const rightBarBestSellers=[
+    {
+        id:1,
+        img:'/assets/macbook.jpg',
+        product:'MacBook',
+        unitPrice:1200,
+        previousPrice:1200,
+        rate:4
+    },
+    {
+        id:2,
+        img:'/assets/canon.jpg',
+        product:'CanonE05',
+        unitPrice:80,
+        previousPrice:0,
+        rate:3
+    },
+    {
+        id:3,
+        img:'/assets/imac.jpg',
+        product:'iMac',
+        unitPrice:2000,
+        previousPrice:0,
+        rate:4.5
+    },
+    {
+        id:4,
+        img:'/assets/ipad.jpg',
+        product:'Tablet',
+        unitPrice:800,
+        previousPrice:0,
+        rate:3
+    },
+    {
+        id:5,
+        img:'/assets/ipad.jpg',
+        product:'Tablet',
+        unitPrice:800,
+        previousPrice:0,
+        rate:3
+    },
+    {
+        id:6,
+        img:'/assets/ipad.jpg',
+        product:'Tablet',
+        unitPrice:800,
+        previousPrice:0,
+        rate:3
+    }
+
+]
